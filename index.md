@@ -30,4 +30,4 @@ Knowledge
 1. Computer Network
 2. Operating System
 
-- [] finish the CSE110
+- [ ] finish the CSE110
