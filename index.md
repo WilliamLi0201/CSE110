@@ -4,7 +4,7 @@
 
 *Bytedancer*
 
-![Self Photography](profile.png)
+![Self Photography](profile.jpg)
 
 Favorite Quote:
 > The way to get started is to quit talking and begin doing. -Walt Disney
@@ -14,7 +14,6 @@ Some beautiful codes:
 print("hello world!")
 rm -rf
 pip install
-
 ```
 
 [Go to the top](# Chenghao Li)
